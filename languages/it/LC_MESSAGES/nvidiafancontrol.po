@@ -5,11 +5,11 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Nvidia Fan control v2.0.1\n"
+"Project-Id-Version: Nvidia Fan control v1.0.1\n"
 "Report-Msgid-Bugs-To: https://github.com/tudo75/nvidia-fan-control/"
 "issues\n"
-"POT-Creation-Date: 2021-08-01 16:26+0200\n"
-"PO-Revision-Date: 2021-08-01 16:57+0200\n"
+"POT-Creation-Date: 2021-08-02 22:02+0200\n"
+"PO-Revision-Date: 2021-08-02 22:02+0200\n"
 "Last-Translator: Nicola Tudino <tudo75@gmail.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -18,35 +18,35 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.3\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Poedit-Basepath: ../../../nvidia-fan-control\n"
+"X-Poedit-Basepath: ../../../nvidia_fan_control\n"
 "X-Poedit-SearchPath-0: app.py\n"
 "X-Poedit-SearchPath-1: settings.py\n"
 
-#: app.py:44
+#: app.py:49
 msgid "Nvidia Fan control"
 msgstr "Nvidia Fan Control"
 
-#: app.py:102
+#: app.py:107
 msgid "About us"
 msgstr "Informazioni"
 
-#: app.py:123
+#: app.py:128
 msgid "Initialize Nvidia Xconfig"
 msgstr "Inizializza Nvidia Xconfig"
 
-#: app.py:137
+#: app.py:142
 msgid "Reboot the system"
 msgstr "Riavvia il sistema"
 
-#: app.py:143
+#: app.py:148
 msgid "Set fan speed %"
 msgstr "Velocità % della ventola"
 
-#: app.py:159
+#: app.py:164
 msgid "Set speed"
 msgstr "Imposta velocità"
 
-#: app.py:212
+#: app.py:217
 msgid ""
 "\n"
 "GUI fan controller for nvidia \n"
@@ -57,15 +57,15 @@ msgstr ""
 "Nvidia\n"
 "Nota: Testato su una scheda GTX 460\n"
 
-#: app.py:214
+#: app.py:219
 msgid "Github Code Repository"
 msgstr "Repository del codice su Github"
 
-#: app.py:217
+#: app.py:222
 msgid "translator-credits"
 msgstr "Nicola Tudino"
 
-#: app.py:255
+#: app.py:260
 msgid ""
 "Can't fetch data.\n"
 "Please install nvidia-smi!"
@@ -73,13 +73,13 @@ msgstr ""
 "Impossibile recuperare le informazioni.\n"
 "Per favore installa nvidia-smi!"
 
-#: app.py:285
+#: app.py:290
 msgid "Success! New X configuration file written to /etc/X11/xorg.conf"
 msgstr ""
 "Fatto! Il nuovo file di configurazione per X è stato scritto in /etc/X11/"
 "xorg.conf"
 
-#: app.py:298
+#: app.py:303
 msgid ""
 "\n"
 "\n"
@@ -89,23 +89,23 @@ msgstr ""
 "\n"
 "Per favore installalo!"
 
-#: app.py:301
+#: app.py:306
 msgid "Reboot"
 msgstr "Riavvia"
 
-#: app.py:301
+#: app.py:306
 msgid "Do you want to reboot?"
 msgstr "Vuoi riavviare?"
 
-#: app.py:305
+#: app.py:310
 msgid "Reboot is required to implement the changes"
 msgstr "E' richiesto il riavvio per applicare le modifiche"
 
-#: app.py:319
+#: app.py:324
 msgid "Fan Speed Set To "
 msgstr "Velocità della ventola impostata a "
 
-#: app.py:323
+#: app.py:328
 msgid ""
 "\n"
 "\n"
@@ -115,7 +115,7 @@ msgstr ""
 "\n"
 "Errore nell'impostare la velocità della ventola"
 
-#: app.py:363 app.py:368
+#: app.py:368 app.py:373
 msgid "Error"
 msgstr "Errore"
 
