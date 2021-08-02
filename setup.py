@@ -19,7 +19,7 @@ data_files=[
 
 setup(
     name='nvidia-fan-control',
-    version='1.0.2',
+    version='1.0.3',
     packages=['nvidia_fan_control'],
     url='https://github.com/tudo75/nvidia-fan-control',
     project_urls={
@@ -45,7 +45,7 @@ setup(
         "Intended Audience :: End Users/Desktop",
         "Operating System :: POSIX :: Linux",
         "Programming Language :: Python :: 3.8",
-        "License :: OSI Approved :: GNU General Public License v3 (GPLv3+)",
+        "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
     ],
     install_requires=[
         'pycairo>=1.20.1',
