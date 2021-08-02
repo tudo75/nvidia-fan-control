@@ -1,7 +1,7 @@
 
 import datetime
 
-__version__ = '1.0.4'
+__version__ = '1.0.5'
 __author__ = 'Nicola Tudino'
 __author_email__ = 'tudo75@gmail.com'
 __website_url__ = 'https://github.com/tudo75/nvidia-fan-control'
