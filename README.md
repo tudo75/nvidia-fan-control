@@ -1,9 +1,8 @@
 # Nvidia Fan Control
 
 GUI fan controller for Nvidia GPU
-<br>
+
 With this app you can set your preferred fan speed for Nvidia GPU (on Linux systems) without to use command line tools.
-<br>
 
 <b>Note:</b> Tested on GTX 460
 
@@ -24,10 +23,13 @@ To install the app:
 
 ## Usage
 
-1. Open application through the created menu launcher or from terminal <code>nvidiafancontrol</code>
+1. Open application through the created menu launcher or from terminal 
+
+    <code>nvidiafancontrol</code>
+
 2. Click on: <i>"Initialize Nvidia Xconfig"</i>
-3. If you receive a positive confirmation dialog then click on: <i>"Reboot"</i>
-If you receive an error message, you should install the <b>nvidia-smi</b> package and retry
-4. After Reboot reopen app and set desired speed
+4. If you receive a positive confirmation dialog then click on: <i>"Reboot"</i>.
+If you receive an error message, you should install the <code>nvidia-smi</code> package and retry
+5. After <i>Reboot</i> reopen app and set desired speed
 
 
