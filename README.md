@@ -1,4 +1,4 @@
-# Nvidia Fan Control Gui Linux
+# Nvidia Fan Control
 
 GUI fan controller for Nvidia GPU
 <br>
