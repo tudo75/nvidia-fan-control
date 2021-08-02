@@ -1,6 +1,5 @@
 
 import os
-import nvidia_fan_control
 
 from setuptools import setup
 
@@ -20,15 +19,15 @@ data_files=[
 
 setup(
     name='nvidia-fan-control',
-    version=nvidia_fan_control.__version__,
+    version='1.0.2',
     packages=['nvidia_fan_control'],
     url='https://github.com/tudo75/nvidia-fan-control',
     project_urls={
         "Bug Tracker": "https://github.com/tudo75/nvidia-fan-control/issues",
     },
-    license=nvidia_fan_control.__license__,
-    author=nvidia_fan_control.__author__,
-    author_email=nvidia_fan_control.__author_email__,
+    license='GNU General Public License v3.0',
+    author='Nicola Tudino',
+    author_email='tudo75@gmail.com',
     description='Nvidia Fan Control',
     long_description=read('README.md'),
     long_description_content_type="text/markdown",
