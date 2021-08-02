@@ -1,4 +1,4 @@
-# Nvidia Fan Control
+# ![Icon](https://github.com/tudo75/nvidia-fan-control/blob/eb194449a0f87ad48520faa60e8548fbd44ab934/nvidia_fan_control/nvidiafancontrol.svg) Nvidia Fan Control
 
 GUI fan controller for Nvidia GPU
 
