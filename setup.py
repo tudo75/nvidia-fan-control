@@ -9,9 +9,8 @@ def read(fname):
 
 
 data_files=[
-    ("/usr/share/applications", ["nvidiafancontrol.desktop"]),
-    ("/usr/share/pixmaps", ["nvidia_fan_control/nvidiafancontrol.svg"]),
-    ("nvidia_fan_control", ["nvidia_fan_control/font.css"]),
+    ("share/applications", ["nvidiafancontrol.desktop"]),
+    ("share/pixmaps", ["nvidia_fan_control/nvidiafancontrol.svg"]),
     ('share/locale/en/LC_MESSAGES', ['languages/en/LC_MESSAGES/nvidiafancontrol.mo']),
     ('share/locale/it/LC_MESSAGES', ['languages/it/LC_MESSAGES/nvidiafancontrol.mo']),
 ]
@@ -19,8 +18,9 @@ data_files=[
 
 setup(
     name='nvidia-fan-control',
-    version='1.0.3',
+    version='1.0.4',
     packages=['nvidia_fan_control'],
+    package_data={'nvidia_fan_control': ["nvidia_fan_control/font.css"]},
     url='https://github.com/tudo75/nvidia-fan-control',
     project_urls={
         "Bug Tracker": "https://github.com/tudo75/nvidia-fan-control/issues",
