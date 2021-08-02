@@ -1,0 +1,86 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-01 16:58+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+
+#: nvidia-fan-control/app.py:50
+msgid "Nvidia Fan Control Gui Linux"
+msgstr ""
+
+#: nvidia-fan-control/app.py:59
+msgid "APP start init"
+msgstr ""
+
+#: nvidia-fan-control/app.py:102
+msgid "About us"
+msgstr ""
+
+#: nvidia-fan-control/app.py:118
+msgid "Initialize Nvidia Xconfig"
+msgstr ""
+
+#: nvidia-fan-control/app.py:127
+msgid "Reboot the system"
+msgstr ""
+
+#: nvidia-fan-control/app.py:145
+msgid "Set speed"
+msgstr ""
+
+#: nvidia-fan-control/app.py:236
+msgid ""
+"Can't fetch data.\n"
+"Please install nvidia-smi!"
+msgstr ""
+
+#: nvidia-fan-control/app.py:266
+msgid "Success! New X configuration file written to /etc/X11/xorg.conf"
+msgstr ""
+
+#: nvidia-fan-control/app.py:279
+msgid ""
+"\n"
+"\n"
+"Please install it!"
+msgstr ""
+
+#: nvidia-fan-control/app.py:282
+msgid "Reboot"
+msgstr ""
+
+#: nvidia-fan-control/app.py:282
+msgid "Do you want to reboot?"
+msgstr ""
+
+#: nvidia-fan-control/app.py:286
+msgid "Reboot is required to implement the changes"
+msgstr ""
+
+#: nvidia-fan-control/app.py:300
+msgid "Fan Speed Set To "
+msgstr ""
+
+#: nvidia-fan-control/app.py:304
+msgid ""
+"\n"
+"\n"
+"Failed To Set Fan Speed"
+msgstr ""
+
+#: nvidia-fan-control/app.py:344 nvidia-fan-control/app.py:349
+msgid "Error"
+msgstr ""
