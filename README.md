@@ -21,6 +21,10 @@ To install the app:
 
 <code>pip install nvidia_fan_control</code>
 
+or
+
+<code>sudo pip install nvidia_fan_control</code>
+
 ## Usage
 
 1. Open application through the created menu launcher or from terminal 
