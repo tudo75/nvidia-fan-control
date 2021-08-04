@@ -1,5 +1,13 @@
 # <img src="https://github.com/tudo75/nvidia-fan-control/blob/eb194449a0f87ad48520faa60e8548fbd44ab934/nvidia_fan_control/nvidiafancontrol.svg" alt="Icon" width="50px;" height="50px;"/> Nvidia Fan Control
 
+![GitHub](https://img.shields.io/github/license/tudo75/nvidia-fan-control)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/nvidia-fan-control)
+![PyPI - Implementation](https://img.shields.io/pypi/implementation/nvidia-fan-control)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/tudo75/nvidia-fan-control)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/tudo75/nvidia-fan-control/Upload%20Python%20Package)
+![PyPI - Format](https://img.shields.io/pypi/format/nvidia-fan-control)
+![PyPI - Wheel](https://img.shields.io/pypi/wheel/nvidia-fan-control)
+![PyPI - Status](https://img.shields.io/pypi/status/nvidia-fan-control)
 
 GUI fan controller for Nvidia GPU
 
@@ -7,7 +15,9 @@ With this app you can set your preferred fan speed for Nvidia GPU (on Linux syst
 
 <b>Note:</b> Tested on GTX 460
 
-![GUI Main Image](https://github.com/tudo75/nvidia-fan-control/blob/5308b771412321387d9f219d7e88ba8e4457abef/gui.png)
+<div align="center">
+    <img src="https://github.com/tudo75/nvidia-fan-control/blob/5308b771412321387d9f219d7e88ba8e4457abef/gui.png" alt"GUI Main Image" />
+</div>
 
 ## Credits
 
