@@ -21,7 +21,7 @@ With this app you can set your preferred fan speed for Nvidia GPU (on Linux syst
 
 ## Credits
 
-Based on the work of Sabin Dcoster [nvidia-fan-control-gui-linux](https://github.com/dcostersabin/nvidia-fan-control-gui-linux)
+Based on the work of Sabin Dcoster <a href="https://github.com/dcostersabin/nvidia-fan-control-gui-linux" target="_blank">nvidia-fan-control-gui-linux</a>
 
 ## Disclaimer
 
