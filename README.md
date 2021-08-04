@@ -1,5 +1,5 @@
 # <img src="https://github.com/tudo75/nvidia-fan-control/blob/eb194449a0f87ad48520faa60e8548fbd44ab934/nvidia_fan_control/nvidiafancontrol.svg" alt="Icon" width="50px;" height="50px;"/> Nvidia Fan Control
-___
+
 
 GUI fan controller for Nvidia GPU
 
@@ -10,17 +10,17 @@ With this app you can set your preferred fan speed for Nvidia GPU (on Linux syst
 ![GUI Main Image](https://github.com/tudo75/nvidia-fan-control/blob/5308b771412321387d9f219d7e88ba8e4457abef/gui.png)
 
 ## Credits
-___
+
 Based on the work of Sabin Dcoster [nvidia-fan-control-gui-linux](https://github.com/dcostersabin/nvidia-fan-control-gui-linux)
 
 ## Disclaimer
-___
+
 NVIDIA is a registered trademark of NVIDIA Corporation.
 
 Developers and app are not related to NVIDIA.
 
 ## Installation
-___
+
 To install the app:
 
 <code>pip install nvidia_fan_control</code>
@@ -30,7 +30,7 @@ or
 <code>sudo pip install nvidia_fan_control</code>
 
 ## Usage
-___
+
 1. Open application through the created menu launcher or from terminal 
 
     <code>nvidiafancontrol</code>
@@ -41,7 +41,7 @@ If you receive an error message, you should install the <code>nvidia-smi</code> 
 5. After <i>Reboot</i> reopen app and set desired speed
 
 ## TODO
-___
+
 
 * [ ] Check Nvidia GPU index if there are multiple GPUs
 * [ ] Handle multiple Nvidia GPU on same system
